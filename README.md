@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![UserAvsr's GitHub stats](https://github-readme-stats.vercel.app/api?username=useravsr)](https://github.com/useravsr/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useravsr&layout=compact)
+[![UserAvsr's GitHub stats](https://github-readme-stats.vercel.app/api?username=useravsr)](https://github.com/useravsr/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useravsr&layout=donut)](https://github.com/useravsr/github-readme-stats)
 ![UserAvsr's GitHub stats](https://github-readme-stats.vercel.app/api?username=useravsr&show=reviews)
 <!--
 **useravsr/useravsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
