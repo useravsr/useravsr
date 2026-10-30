@@ -98,9 +98,10 @@ Architecting a multi-platform digital ecosystem, including websites, educational
   <img src="https://streak-stats.demolab.com/?user=useravsr&theme=dark&hide_border=true&background=0D1117&ring=FF91A4&fire=FF91A4&currStreakLabel=FF91A4&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak" />
 </p>
 
+<!-- 
 ## 🐍 Contribution Activity
 
-<!-- <p align="center">
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/useravsr/useravsr/main/output/github-snake-dark.svg"
     alt="GitHub Contribution Snake"
