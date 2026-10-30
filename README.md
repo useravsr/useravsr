@@ -101,7 +101,7 @@ Architecting a multi-platform digital ecosystem, including websites, educational
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/useravsr/useravsr/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/useravsr/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
